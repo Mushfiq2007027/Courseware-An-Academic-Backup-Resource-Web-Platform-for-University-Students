@@ -97,7 +97,11 @@ The system consists of two major modules:
 ## 🖼️ Project Images
 | Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|--------------|--------------|
-| ![Image1](images/img1.png) | ![Image2](images/img2.png) | ![Image3](images/img3.png) | ![Image4](images/img4.png) |
+| ![Register Page](<img width="581" height="536" alt="register" src="https://github.com/user-attachments/assets/c078406f-2b39-47c9-8bf6-37326e2f59fa" />
+) | ![Home Page](![Uploading home.png…]()
+) | ![Course Filter Page](![Uploading filter.png…]()
+) | ![Course Details Page](![Uploading course_details.png…]()
+) |
 
 | Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
 |--------------|--------------|--------------|--------------|
