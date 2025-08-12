@@ -88,84 +88,78 @@ The system consists of two major modules:
 
 ---
 
-## 🎥 Demo Video
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)  
-*(Click the image to watch the demo)*
-
----
-
 ## 🖼️ Project Images
 
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 1: Register Page</b><br/>
   <img src="https://github.com/user-attachments/assets/c078406f-2b39-47c9-8bf6-37326e2f59fa" alt="Register Page" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 2: Home Page</b><br/>
   <img src="https://github.com/user-attachments/assets/e512a468-ade8-42d1-9c8f-60935fe52f41" alt="Home Page" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 3: Course Filter Page</b><br/>
   <img src="https://github.com/user-attachments/assets/02c9ce91-b776-4271-bdfb-740b05df2cf1" alt="Course Filter Page" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 4: Course Details Page</b><br/>
   <img src="https://github.com/user-attachments/assets/6de70cd3-5232-49c3-843e-fe0c77adf575" alt="Course Details Page" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 5: Pre-Requisite Dialog Box</b><br/>
   <img src="https://github.com/user-attachments/assets/fd7bf60e-72ac-4d9b-be66-310a5f502078" alt="Pre-Requisite Dialog Box" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 6: Play Lecture Video</b><br/>
   <img src="https://github.com/user-attachments/assets/d66eb934-b90d-490c-bda2-c3392c80a56b" alt="Play Lecture Video" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 7: View Previous Year Questions</b><br/>
   <img src="https://github.com/user-attachments/assets/1286da33-5fae-4c55-8ea8-240241279ee4" alt="View Previous Year Questions" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 8: View Course Materials</b><br/>
   <img src="https://github.com/user-attachments/assets/556cfbad-5605-4bd0-aefb-4941156e44d8" alt="View Course Materials" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 9: Admin Dashboard</b><br/>
   <img src="https://github.com/user-attachments/assets/d6b6a089-a4be-492a-91bb-37e540321a8b" alt="Admin Dashboard" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 10: Course Listing Page</b><br/>
   <img src="https://github.com/user-attachments/assets/47331c25-fd02-4e4e-b269-697a3094ba5a" alt="Course Listing Page" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 11: Course Curriculum Page</b><br/>
   <img src="https://github.com/user-attachments/assets/d9101943-096f-4ff3-9560-395b60ec3721" alt="Course Curriculum Page" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 12: Course Landing Page</b><br/>
   <img src="https://github.com/user-attachments/assets/2732d4c3-c3e8-47d8-93c8-429db4110b49" alt="Course Landing Page" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 13: Course Image Page</b><br/>
   <img src="https://github.com/user-attachments/assets/9922cb14-2f20-4b9c-bc43-a0f4165fc1e9" alt="Course Image Page" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 14: Upload Previous Year Question's PDF</b><br/>
   <img src="https://github.com/user-attachments/assets/54b2033a-001f-4ce4-9910-df2c9a2fc864" alt="Upload Previous Year Question's PDF" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
-
+<br/>
 <div style="text-align:center; margin-bottom: 8px;">
   <b style="font-size:1.2em; color: navy;">Screenshot 15: Upload Course Materials PDFs</b><br/>
   <img src="https://github.com/user-attachments/assets/6985cc8c-fd80-4455-b866-555da0e9a155" alt="Upload Course Materials PDFs" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
