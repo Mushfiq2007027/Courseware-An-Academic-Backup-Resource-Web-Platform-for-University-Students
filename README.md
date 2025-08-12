@@ -97,23 +97,19 @@ The system consists of two major modules:
 ## 🖼️ Project Images
 | Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|--------------|--------------|
-| ![Register Page](<img width="581" height="536" alt="register" src="https://github.com/user-attachments/assets/c078406f-2b39-47c9-8bf6-37326e2f59fa" />
-) | ![Home Page](![Uploading home.png…]()
-) | ![Course Filter Page](![Uploading filter.png…]()
-) | ![Course Details Page](![Uploading course_details.png…]()
-) |
+| ![Register Page](https://github.com/user-attachments/assets/c078406f-2b39-47c9-8bf6-37326e2f59fa) | *(Add Home Screenshot URL)* | *(Add Filter Screenshot URL)* | *(Add Course Details Screenshot URL)* |
 
 | Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
 |--------------|--------------|--------------|--------------|
-| ![Image5](images/img5.png) | ![Image6](images/img6.png) | ![Image7](images/img7.png) | ![Image8](images/img8.png) |
+| *(Add Screenshot 5 URL)* | ![Pre-Requisite Dialog Box](https://github.com/user-attachments/assets/fd7bf60e-72ac-4d9b-be66-310a5f502078) | ![Play Lecture Video](https://github.com/user-attachments/assets/d66eb934-b90d-490c-bda2-c3392c80a56b) ![View Previous Year Questions](https://github.com/user-attachments/assets/1286da33-5fae-4c55-8ea8-240241279ee4) | ![View Course Materials](https://github.com/user-attachments/assets/556cfbad-5605-4bd0-aefb-4941156e44d8) |
 
 | Screenshot 9 | Screenshot 10 | Screenshot 11 | Screenshot 12 |
 |--------------|---------------|---------------|---------------|
-| ![Image9](images/img9.png) | ![Image10](images/img10.png) | ![Image11](images/img11.png) | ![Image12](images/img12.png) |
+| ![Admin Dashboard](https://github.com/user-attachments/assets/d6b6a089-a4be-492a-91bb-37e540321a8b) | ![Course Listing Page](https://github.com/user-attachments/assets/47331c25-fd02-4e4e-b269-697a3094ba5a) | ![Course Curriculum Page](https://github.com/user-attachments/assets/d9101943-096f-4ff3-9560-395b60ec3721) | ![Course Landing Page](https://github.com/user-attachments/assets/2732d4c3-c3e8-47d8-93c8-429db4110b49) |
 
 | Screenshot 13 | Screenshot 14 | Screenshot 15 | Screenshot 16 |
 |---------------|---------------|---------------|---------------|
-| ![Image13](images/img13.png) | ![Image14](images/img14.png) | ![Image15](images/img15.png) | ![Image16](images/img16.png) |
+| ![Course Image Page](https://github.com/user-attachments/assets/9922cb14-2f20-4b9c-bc43-a0f4165fc1e9) | ![Upload Previous Year Question's PDF](https://github.com/user-attachments/assets/54b2033a-001f-4ce4-9910-df2c9a2fc864) | ![Upload Course Materials PDFs](https://github.com/user-attachments/assets/6985cc8c-fd80-4455-b866-555da0e9a155) | *(Add Screenshot 16 URL)* |
 
 ---
 
