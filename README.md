@@ -97,50 +97,49 @@ The system consists of two major modules:
 ## 🖼️ Project Images
 
 **Screenshot 1: Register Page**  
-![Register Page](https://github.com/user-attachments/assets/c078406f-2b39-47c9-8bf6-37326e2f59fa)
+<img src="https://github.com/user-attachments/assets/c078406f-2b39-47c9-8bf6-37326e2f59fa" alt="Register Page" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 2: Home Page**  
-*(Add your home page screenshot here)*
+<img src="https://github.com/user-attachments/assets/e512a468-ade8-42d1-9c8f-60935fe52f41" alt="Home Page" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 3: Course Filter Page**  
-*(Add your course filter screenshot here)*
+<img src="https://github.com/user-attachments/assets/02c9ce91-b776-4271-bdfb-740b05df2cf1" alt="Course Filter Page" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 4: Course Details Page**  
-*(Add your course details screenshot here)*
+<img src="https://github.com/user-attachments/assets/6de70cd3-5232-49c3-843e-fe0c77adf575" alt="Course Details Page" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
-**Screenshot 5:**  
-*(Add screenshot 5 URL here)*
+**Screenshot 5: Pre-Requisite Dialog Box**  
+<img src="https://github.com/user-attachments/assets/fd7bf60e-72ac-4d9b-be66-310a5f502078" alt="Pre-Requisite Dialog Box" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
-**Screenshot 6: Pre-Requisite Dialog Box**  
-![Pre-Requisite Dialog Box](https://github.com/user-attachments/assets/fd7bf60e-72ac-4d9b-be66-310a5f502078)
+**Screenshot 6: Play Lecture Video**  
+<img src="https://github.com/user-attachments/assets/d66eb934-b90d-490c-bda2-c3392c80a56b" alt="Play Lecture Video" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 12px;" />
 
-**Screenshot 7: Play Lecture Video and View Previous Year Questions**  
-![Play Lecture Video](https://github.com/user-attachments/assets/d66eb934-b90d-490c-bda2-c3392c80a56b)  
-![View Previous Year Questions](https://github.com/user-attachments/assets/1286da33-5fae-4c55-8ea8-240241279ee4)
+**Screenshot 7: View Previous Year Questions**  
+<img src="https://github.com/user-attachments/assets/1286da33-5fae-4c55-8ea8-240241279ee4" alt="View Previous Year Questions" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 8: View Course Materials**  
-![View Course Materials](https://github.com/user-attachments/assets/556cfbad-5605-4bd0-aefb-4941156e44d8)
+<img src="https://github.com/user-attachments/assets/556cfbad-5605-4bd0-aefb-4941156e44d8" alt="View Course Materials" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 9: Admin Dashboard**  
-![Admin Dashboard](https://github.com/user-attachments/assets/d6b6a089-a4be-492a-91bb-37e540321a8b)
+<img src="https://github.com/user-attachments/assets/d6b6a089-a4be-492a-91bb-37e540321a8b" alt="Admin Dashboard" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 10: Course Listing Page**  
-![Course Listing Page](https://github.com/user-attachments/assets/47331c25-fd02-4e4e-b269-697a3094ba5a)
+<img src="https://github.com/user-attachments/assets/47331c25-fd02-4e4e-b269-697a3094ba5a" alt="Course Listing Page" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 11: Course Curriculum Page**  
-![Course Curriculum Page](https://github.com/user-attachments/assets/d9101943-096f-4ff3-9560-395b60ec3721)
+<img src="https://github.com/user-attachments/assets/d9101943-096f-4ff3-9560-395b60ec3721" alt="Course Curriculum Page" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 12: Course Landing Page**  
-![Course Landing Page](https://github.com/user-attachments/assets/2732d4c3-c3e8-47d8-93c8-429db4110b49)
+<img src="https://github.com/user-attachments/assets/2732d4c3-c3e8-47d8-93c8-429db4110b49" alt="Course Landing Page" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 13: Course Image Page**  
-![Course Image Page](https://github.com/user-attachments/assets/9922cb14-2f20-4b9c-bc43-a0f4165fc1e9)
+<img src="https://github.com/user-attachments/assets/9922cb14-2f20-4b9c-bc43-a0f4165fc1e9" alt="Course Image Page" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 14: Upload Previous Year Question's PDF**  
-![Upload Previous Year Question's PDF](https://github.com/user-attachments/assets/54b2033a-001f-4ce4-9910-df2c9a2fc864)
+<img src="https://github.com/user-attachments/assets/54b2033a-001f-4ce4-9910-df2c9a2fc864" alt="Upload Previous Year Question's PDF" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 **Screenshot 15: Upload Course Materials PDFs**  
-![Upload Course Materials PDFs](https://github.com/user-attachments/assets/6985cc8c-fd80-4455-b866-555da0e9a155)
+<img src="https://github.com/user-attachments/assets/6985cc8c-fd80-4455-b866-555da0e9a155" alt="Upload Course Materials PDFs" width="700" style="border: 1px solid #ddd; border-radius: 8px; padding: 6px; background: white; display: block; margin-bottom: 20px;" />
 
 ---
 
