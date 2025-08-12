@@ -116,7 +116,7 @@ The system consists of two major modules:
 </div>
 <br/>
 <div style="text-align:center; margin-bottom: 8px;">
-  <b style="font-size:1.2em; color: navy;">Screenshot 6: Play Lecture Video</b><br/>
+  <h1 style="font-size:1.2em; color: navy;">Screenshot 6: Play Lecture Video</h1><br/>
   <img src="https://github.com/user-attachments/assets/d66eb934-b90d-490c-bda2-c3392c80a56b" alt="Play Lecture Video" width="700" style="border:1px solid #ddd; border-radius:8px; padding:6px; background:white; margin: 12px auto 30px auto; display:block;" />
 </div>
 <br/>
