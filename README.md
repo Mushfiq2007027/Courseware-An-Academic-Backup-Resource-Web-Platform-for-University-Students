@@ -95,21 +95,52 @@ The system consists of two major modules:
 ---
 
 ## 🖼️ Project Images
-| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
-|--------------|--------------|--------------|--------------|
-| ![Register Page](https://github.com/user-attachments/assets/c078406f-2b39-47c9-8bf6-37326e2f59fa) | *(Add Home Screenshot URL)* | *(Add Filter Screenshot URL)* | *(Add Course Details Screenshot URL)* |
 
-| Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
-|--------------|--------------|--------------|--------------|
-| *(Add Screenshot 5 URL)* | ![Pre-Requisite Dialog Box](https://github.com/user-attachments/assets/fd7bf60e-72ac-4d9b-be66-310a5f502078) | ![Play Lecture Video](https://github.com/user-attachments/assets/d66eb934-b90d-490c-bda2-c3392c80a56b) ![View Previous Year Questions](https://github.com/user-attachments/assets/1286da33-5fae-4c55-8ea8-240241279ee4) | ![View Course Materials](https://github.com/user-attachments/assets/556cfbad-5605-4bd0-aefb-4941156e44d8) |
+**Screenshot 1: Register Page**  
+![Register Page](https://github.com/user-attachments/assets/c078406f-2b39-47c9-8bf6-37326e2f59fa)
 
-| Screenshot 9 | Screenshot 10 | Screenshot 11 | Screenshot 12 |
-|--------------|---------------|---------------|---------------|
-| ![Admin Dashboard](https://github.com/user-attachments/assets/d6b6a089-a4be-492a-91bb-37e540321a8b) | ![Course Listing Page](https://github.com/user-attachments/assets/47331c25-fd02-4e4e-b269-697a3094ba5a) | ![Course Curriculum Page](https://github.com/user-attachments/assets/d9101943-096f-4ff3-9560-395b60ec3721) | ![Course Landing Page](https://github.com/user-attachments/assets/2732d4c3-c3e8-47d8-93c8-429db4110b49) |
+**Screenshot 2: Home Page**  
+*(Add your home page screenshot here)*
 
-| Screenshot 13 | Screenshot 14 | Screenshot 15 | Screenshot 16 |
-|---------------|---------------|---------------|---------------|
-| ![Course Image Page](https://github.com/user-attachments/assets/9922cb14-2f20-4b9c-bc43-a0f4165fc1e9) | ![Upload Previous Year Question's PDF](https://github.com/user-attachments/assets/54b2033a-001f-4ce4-9910-df2c9a2fc864) | ![Upload Course Materials PDFs](https://github.com/user-attachments/assets/6985cc8c-fd80-4455-b866-555da0e9a155) | *(Add Screenshot 16 URL)* |
+**Screenshot 3: Course Filter Page**  
+*(Add your course filter screenshot here)*
+
+**Screenshot 4: Course Details Page**  
+*(Add your course details screenshot here)*
+
+**Screenshot 5:**  
+*(Add screenshot 5 URL here)*
+
+**Screenshot 6: Pre-Requisite Dialog Box**  
+![Pre-Requisite Dialog Box](https://github.com/user-attachments/assets/fd7bf60e-72ac-4d9b-be66-310a5f502078)
+
+**Screenshot 7: Play Lecture Video and View Previous Year Questions**  
+![Play Lecture Video](https://github.com/user-attachments/assets/d66eb934-b90d-490c-bda2-c3392c80a56b)  
+![View Previous Year Questions](https://github.com/user-attachments/assets/1286da33-5fae-4c55-8ea8-240241279ee4)
+
+**Screenshot 8: View Course Materials**  
+![View Course Materials](https://github.com/user-attachments/assets/556cfbad-5605-4bd0-aefb-4941156e44d8)
+
+**Screenshot 9: Admin Dashboard**  
+![Admin Dashboard](https://github.com/user-attachments/assets/d6b6a089-a4be-492a-91bb-37e540321a8b)
+
+**Screenshot 10: Course Listing Page**  
+![Course Listing Page](https://github.com/user-attachments/assets/47331c25-fd02-4e4e-b269-697a3094ba5a)
+
+**Screenshot 11: Course Curriculum Page**  
+![Course Curriculum Page](https://github.com/user-attachments/assets/d9101943-096f-4ff3-9560-395b60ec3721)
+
+**Screenshot 12: Course Landing Page**  
+![Course Landing Page](https://github.com/user-attachments/assets/2732d4c3-c3e8-47d8-93c8-429db4110b49)
+
+**Screenshot 13: Course Image Page**  
+![Course Image Page](https://github.com/user-attachments/assets/9922cb14-2f20-4b9c-bc43-a0f4165fc1e9)
+
+**Screenshot 14: Upload Previous Year Question's PDF**  
+![Upload Previous Year Question's PDF](https://github.com/user-attachments/assets/54b2033a-001f-4ce4-9910-df2c9a2fc864)
+
+**Screenshot 15: Upload Course Materials PDFs**  
+![Upload Course Materials PDFs](https://github.com/user-attachments/assets/6985cc8c-fd80-4455-b866-555da0e9a155)
 
 ---
 
